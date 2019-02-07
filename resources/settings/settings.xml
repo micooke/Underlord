@@ -1,0 +1,27 @@
+<settings>
+	<setting propertyKey="@Properties.CoreSelection" title="@Strings.CoreSelectionTitle">
+        <settingConfig type="list">
+            <listEntry value="0x000000">@Strings.PureCore</listEntry>
+            <listEntry value="0x000001">@Strings.BlackflameCore</listEntry>
+        </settingConfig>
+    </setting>
+    
+    <setting propertyKey="@Properties.BackgroundSelection" title="@Strings.BackgroundSelectionTitle">
+        <settingConfig type="list">
+            <listEntry value="0x000000">@Strings.Black</listEntry>
+            <listEntry value="0x000001">@Strings.Ghostwater</listEntry>
+        </settingConfig>
+    </setting>
+    
+    <setting propertyKey="@Properties.ShowBattery" title="@Strings.ShowBatteryTitle">
+        <settingConfig type="boolean"/>
+    </setting>
+    
+    <setting propertyKey="@Properties.CountdownStyle" title="@Strings.CountdownTitle">
+        <settingConfig type="list">
+            <listEntry value="0x000000">@Strings.Off</listEntry>
+            <listEntry value="0x000001">@Strings.AllStacked</listEntry>
+            <listEntry value="0x000002">@Strings.DayOverTime</listEntry>
+        </settingConfig>
+    </setting>
+</settings>

@@ -1,0 +1,3 @@
+<resources>
+    <bitmap id="bg_id" filename="gw_240x240.png" dithering="floyd_steinberg"/>
+</resources>

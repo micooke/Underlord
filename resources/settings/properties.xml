@@ -1,0 +1,6 @@
+<properties>
+	<property id="CoreSelection" type="number">0x000001</property>
+	<property id="BackgroundSelection" type="number">0x000001</property>
+	<property id="ShowBattery" type="boolean">true</property>
+	<property id="CountdownStyle" type="number">0x000002</property>
+</properties>

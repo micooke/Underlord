@@ -1,0 +1,22 @@
+<strings>
+    <string id="AppName">underlord countdown</string>
+    
+    <string id="CoreSelectionTitle">Core Selection</string>
+    
+    <string id="PureCore">Pure Core</string>
+    <string id="BlackflameCore">Blackflame Core</string>
+    
+    <string id="BackgroundSelectionTitle">Background Selection</string>
+    
+    <string id="Black">Black</string>
+    <string id="Ghostwater">Ghostwater</string>
+    <string id="Underlord">Underlord</string>
+    
+    <string id="ShowBatteryTitle">Display Battery Percentage</string>
+    
+    <string id="CountdownTitle">Underlord Countdown Style</string>
+    
+    <string id="Off">Off</string>
+    <string id="AllStacked">Stacked Days,Hours,Mins,Secs</string>
+    <string id="DayOverTime">Days over Time</string>
+</strings>
