@@ -25,13 +25,13 @@ class underlordView extends WatchUi.WatchFace {
 	hidden var ShowCountdown, CountdownStyle;
 	hidden var BackgroundSelection;
 	
-	// UTC time of Fri 8th Feb @ 8:30 am in Florida, USA (seems to be about the time @willwightauthor posts to facebook)
+	// UTC time of 1st Mar @ 3 AM in Florida, USA
 	hidden var release_date_settings = {
 	    :year   => 2019,
-	    :month  => 2,
-	    :day    => 8,
-	    :hour   => 13, // UTC offset, in this case for CST
-	    :minute   => 30,
+	    :month  => 3,
+	    :day    => 1,
+	    :hour   => 8, // UTC offset, in this case for CST
+	    :minute   => 00,
 	    :second   => 0
 	};
 	hidden var release_date;
